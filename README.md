@@ -31,3 +31,7 @@ Replace "specific content" with the actual content that should be present in the
 
 Please make sure to adjust the paths and the specific content to match your requirements before executing the script.
 Caution: If you put the script and the files to replace in the same directory, the script also changes. Make sure you adjust: file in "$2"/*;
+
+<p>
+  <img src="/screenhot.png" width="350" title="hover text">
+</p>
